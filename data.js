@@ -13,38 +13,38 @@ const clientEnvelopeText = `كل سنة و انتي طيبة يا دارين ع�
 const clientMemories = [
     {
         "photo": "photo1.jpg",
-        "caption": "الخير و السعاده"
+        "caption": "اخرابي ع العسل"
     },
     {
         "photo": "photo2.jpg",
-        "caption": "دايما"
+        "caption": "مين دي؟"
     },
     {
         "photo": "photo3.jpg",
-        "caption": "و هتمنالك"
+        "caption": "نو كومنت"
     },
     {
         "photo": "photo4.jpg",
-        "caption": "حياتي كلها"
+        "caption": "قطه مغمضه"
     },
     {
         "photo": "photo5.jpg",
-        "caption": "حصلت في"
+        "caption": "قطه مفتحه"
     },
     {
         "photo": "photo6.jpg",
-        "caption": "أحسن حاجه"
+        "caption": "10/10 مفيش كلام"
     },
     {
         "photo": "photo7.jpg",
-        "caption": "هتفضلي أنتي"
+        "caption": "اجمل من روبانزيل"
     },
     {
         "photo": "photo8.jpg",
-        "caption": "عدت السنين"
+        "caption": "احلى من سندريلا"
     },
     {
         "photo": "photo9.jpg",
-        "caption": "حتى لو"
+        "caption": "👑دا وقع منك"
     }
 ];
